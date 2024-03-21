@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="postgresql-connector-java">
+    <CLASSES>
+      <root url="jar:///usr/share/java/postgresql-connector-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
